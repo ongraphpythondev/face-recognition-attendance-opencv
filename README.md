@@ -11,9 +11,10 @@
   virtualenv venv
   ```
    install all dependency
-   ''' bash
-    pip install -r requirements.txt
-    '''
+  
+    ```bash
+  pip install -r requirements.txt
+  ```
 
 # In image folder have some input data 
 # Output
