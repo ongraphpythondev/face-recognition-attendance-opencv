@@ -4,7 +4,8 @@
     if face matched then student attendance save in csv file 
     Its just for demo perpose
 
-# To run project
+## Installation
+
    first- 
    Create virtual environment <br>
      virtualenv venv <br>
