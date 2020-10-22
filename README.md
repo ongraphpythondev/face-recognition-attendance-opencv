@@ -23,5 +23,9 @@
 # In image folder have some input data 
   
 # In face_detect.py file have main code to detect correct user face 
-   run python face_detect.py
+## Run
+```bash
+  python face_detect.py
+  ```
+ 
 
