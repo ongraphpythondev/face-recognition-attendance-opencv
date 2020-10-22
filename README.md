@@ -15,6 +15,10 @@
    ```bash
    pip install -r requirements.txt
   ```
+  run project
+  ```bash
+   python face_detect.py
+  ```
 
 # In image folder have some input data 
 # Output
