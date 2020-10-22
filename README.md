@@ -5,8 +5,11 @@
     Its just for demo perpose
 
 # To run project
-   first- install all dependency <br>
-    cmd- pip install -r requirements.txt
+   first- 
+    # Create virtual environment
+    virtualenv venv
+    # install all dependency 
+    pip install -r requirements.txt
 
 # In image folder have some input data 
 
