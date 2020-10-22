@@ -6,7 +6,7 @@
 
 # To run project
    first- 
-   Create virtual environment
+   Create virtual environment <br>
      virtualenv venv
    install all dependency 
     pip install -r requirements.txt
