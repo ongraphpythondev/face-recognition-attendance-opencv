@@ -1,6 +1,8 @@
 # This project is based on face recognition for attendance 
     using opencv and face recognition for attendance 
-    it just for demo 
+    when student come infront of camera its capture a face and detect its
+    if face matched then student attendance save in csv file 
+    Its just for demo perpose
 
 # To run project
    first- install all dependency <br>
