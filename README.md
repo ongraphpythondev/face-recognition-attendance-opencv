@@ -6,9 +6,9 @@
 
 # To run project
    first- 
-    ## Create virtual environment
-    virtualenv venv
-    ## install all dependency 
+   Create virtual environment
+     virtualenv venv
+   install all dependency 
     pip install -r requirements.txt
 
 # In image folder have some input data 
