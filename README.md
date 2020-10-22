@@ -5,10 +5,12 @@
     Its just for demo perpose
 
 ## Installation
-
-   first- 
+ 
    Create virtual environment <br>
-     virtualenv venv <br>
+   ```bash
+  virtualenv venv
+  ```
+      <br>
    install all dependency <br> 
     pip install -r requirements.txt
 
