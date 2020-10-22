@@ -21,8 +21,6 @@
   ```
 
 # In image folder have some input data 
-# Output
-  <img src="https://github.com/ongraphpythondev/face-recognition-attendance-opencv/blob/face-recognition/screenshot/Screenshot%202020-10-20%20at%203.30.49%20PM.png">
   
 # In face_detect.py file have main code to detect correct user face 
    run python face_detect.py
