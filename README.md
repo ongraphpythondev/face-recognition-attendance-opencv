@@ -20,9 +20,9 @@
    python face_detect.py
   ```
 
-# In image folder have some input data 
+## In image folder have some input data 
   
-# In face_detect.py file have main code to detect correct user face 
+## In face_detect.py file have main code to detect correct user face 
 ## Run
 ```bash
   python face_detect.py
